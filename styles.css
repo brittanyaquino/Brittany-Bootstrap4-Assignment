@@ -1,0 +1,40 @@
+body {
+    background: #424959;
+  }
+.container {
+    background: #424959;
+    color: #f7f7f7;
+    font-family: 'Merriweather', serif;
+  }
+h1,h3 {
+    font-weight: bold;
+  }
+
+p {
+    font-size: 16px;
+    color: #cdcdcd;
+  }
+img {
+    width: 400px;
+}
+
+.bg-light{
+    background: #3B4E68!important;
+}
+
+.jumbotron {
+    background: #A24936;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+.jumbotron p {
+    color: #e8e8e8;
+    font-size: 23px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #577399;
+    border-color: #577399;
+}
